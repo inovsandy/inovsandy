@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inovsandy
 - 👀 I’m interested in full stack deveopment
-- 🌱 I’m currently learning core java
+- 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on webiste bulding
 - 📫 How to reach me inovsandy@gmail.com
 
